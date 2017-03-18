@@ -1,2 +1,4 @@
 name: Aniqa Hassan Blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
